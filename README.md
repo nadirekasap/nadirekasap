@@ -1,9 +1,12 @@
+<img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="300" height="300" align="right" />
+
+<br />
 
 ### Hi there, I'm Nadire :blush:
 
 <font color="pink">I’m a front-end developer candidate. </font>
 
-<img src="https://media.giphy.com/media/fedryX7dMGMe6lgqDm/giphy.gif" width="300" height="300" align="center" />
+
 
 <br />
 <font color="#d8f3dc">Reach out to me </font>
@@ -24,7 +27,13 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="25" height="25"/>
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="25" height="25"/>
+
 <br />
+
+<br />
+
+<br />
+
 <br />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=nadirekasap&repo=github-readme-stats&theme=panda)](https://github.com/nadirekasap/github-readme-stats)
